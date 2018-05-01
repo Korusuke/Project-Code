@@ -4,7 +4,8 @@
 <h2>It's me, Arghyadeep Das!</h2>
 
 
-<h3>Link to my absolutely beautiful [webpage](https://arghyadeep99.github.io/) </h3>
+Link to my absolutely beautiful [webpage](https://arghyadeep99.github.io/). 
+
 
 
 These teams will qualify for IPL:-
@@ -23,10 +24,12 @@ Who will rank higher?
 - [ ] MI
 
 
-@Gaurang, MI will never qualify! :joy:
+>KKR will ~~never~~ qualify! :joy:
 
 
->KKR will qualify :sparkles:
+>MI will not qualify :sparkles:
+
+
 >-Arghyadeep Das
 
 
