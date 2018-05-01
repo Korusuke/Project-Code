@@ -18,8 +18,8 @@ Plus, adding a link to [Siraj's Youtube](https://www.youtube.com/channel/UCWN3xx
 - [ ] Hopefully remember everything i did
 - [x] Yayy
 
-'''
+```
 Scissors
-'''
+```
 
 -Fin-
