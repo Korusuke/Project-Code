@@ -11,4 +11,4 @@ Our Mini-Projects and Assignments can be found in the individual week folders.
 
 ##### Week 1 - Python
 
-The projects are in progress and will be updated weekly.
+The project is in progress and will be updated weekly.
