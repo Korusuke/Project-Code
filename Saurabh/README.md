@@ -4,6 +4,15 @@
 *I dont know what am I supposed to do now*
 
 **ONOY is a ~~good~~ fooool**
+
+What do I list here?
+* Item 1
+* Item 2
+* Item 3
+
+---
+![Image](https://images.tbs.com/tbs/$dyna_params/https%3A%2F%2Fi.cdn.tbs.com%2Fassets%2Fimages%2F2017%2F04%2Fvizio-friends-960x1440.png)
+
 ---
 > ESE is just 10 days away.
 
