@@ -1,7 +1,8 @@
-# Hi im **Vedant**
+# Hi im **Vedant** #
 
-###Video Games I Play/Have Played### 
-*__Call of Duty__ :
+### Video Games I Play/Have Played ### 
+
+* __Call of Duty__ :
  -[ ]WAW
  -[x]MW1
  -[x]MW2
@@ -14,7 +15,7 @@
  -[ ]IW
  -[x]WW2
 
-* __DOTA__ 2
-* __FIFA__ 07-18
+* __DOTA 2__
+* __FIFA__ (07-18)
 * __FORTNITE__
 * ~~BATTLEFEILD~~
