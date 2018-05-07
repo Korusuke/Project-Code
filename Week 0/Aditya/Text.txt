@@ -1,0 +1,10 @@
+Things covered this week:
+(1.) Git/github
+(2.) Sorting Algorithms:
+	(2.1) Merge Sort
+	(2.2) Insertion Sort
+	(2.3) Counting Sort
+	(2.4) Radix Sort
+	(2.5) Heap sort
+(3.) Solving recurrences(including master method)
+(4.) BST, AVL tree concept revision
