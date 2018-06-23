@@ -6,7 +6,7 @@
 ___
 
 **Markdown**
-* **Learned Markdown** *this* ~~week.
+* **Learned Markdown** *this* ~~week~~.
 ___
 
 **Sources for these courses**
