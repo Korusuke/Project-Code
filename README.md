@@ -12,3 +12,7 @@ Our Mini-Projects and Assignments can be found in the individual week folders.
 ##### Week 1 - Python
 
 The project is in progress and will be updated weekly.
+
+##### Week 2 - Data Structures 
+
+This is still under progress.
